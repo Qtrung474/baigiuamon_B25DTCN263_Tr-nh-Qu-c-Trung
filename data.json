@@ -1,0 +1,20 @@
+[
+    {
+        "id": "SV01",
+        "name": "Trung",
+        "math_score": 9.0,
+        "physics_score": 9.0,
+        "chemistry_score": 9.0,
+        "average_score": 9.0,
+        "classification": "Giỏi"
+    },
+    {
+        "id": "SV02",
+        "name": "huy",
+        "math_score": 8.0,
+        "physics_score": 8.0,
+        "chemistry_score": 8.0,
+        "average_score": 8.0,
+        "classification": "Giỏi"
+    }
+]
